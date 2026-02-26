@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Cuento de Ricitos de Oro")
-st.write(" Ricitos
+st.write("Ricitos"
         )
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
