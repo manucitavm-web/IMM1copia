@@ -34,6 +34,8 @@ if option_lang=="Español" :
     lg='es'
 if option_lang=="English" :
     lg='en'
+if option_lang == "Portugués":
+    lg="pt"
 
 def text_to_speech(text, tld,lg):
     
