@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader("Cuento de Ricitos de Oro")
+st.subheader("Cuento")
 st.write("Érase una vez una familia de osos que vivían en una linda casita en el bosque. Papá Oso era muy grande, Mamá Osa era de tamaño mediano y Osito era pequeño.")
 st.write ("Una mañana, Mamá Osa sirvió la más deliciosa avena para el desayuno, pero como estaba demasiado caliente para comer, los tres osos decidieron ir de paseo por el bosque mientras se enfriaba. Al cabo de unos minutos, una niña llamada Ricitos de Oro llegó a la casa de los osos y tocó la puerta. Al no encontrar respuesta, abrió la puerta y entró en la casa sin permiso.")
 
